@@ -13,6 +13,9 @@
   <ItemGroup>
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameState.h" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{62BC904B-5948-4E2D-9745-106F72F5AD22}</ProjectGuid>
     <RootNamespace>Pong</RootNamespace>
